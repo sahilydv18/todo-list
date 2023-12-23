@@ -1,5 +1,5 @@
 # Todo List
-Todo List is a desktop application created to help you organize your day to day tasks
+Todo List is a desktop application created to help you organize your day to day task
 <br>
 Created using Java, JavaFX and FXML
 <br><br>
