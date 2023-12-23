@@ -1,4 +1,4 @@
 # Todo List
-Todo List desktop application created using JavaFX and FXML 
+Todo List is a desktop application created to help you organize your day to day tasks
 <br>
-Maven is used to handle dependencies for the project
+Created using Java, JavaFX and FXML
